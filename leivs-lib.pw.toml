@@ -1,0 +1,21 @@
+filename = "Leiv's Lib_NeoForge_1.21.1 (v.5.1.0).jar"
+name = "Leiv's Lib"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = "Leiv's Lib_NeoForge_1.21.1 (v.5.1.0)"
+
+[download]
+hash = '1eb3127f50f987f59b438cc5af962b7ba91a9252'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9312328
+project-id = 1652868
+
+[[x-prismlauncher-dependencies]]
+addonId = '1652871'
+type = 'OPTIONAL'

@@ -1,0 +1,21 @@
+filename = 'amendments-1.21-2.3.0-neoforge.jar'
+name = 'Amendments'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'amendments-1.21-2.3.0-neoforge'
+
+[download]
+hash = '7a8c34c0983588479869f95e84e8d8f22cb81c99'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9751471
+project-id = 896746
+
+[[x-prismlauncher-dependencies]]
+addonId = '499980'
+type = 'REQUIRED'

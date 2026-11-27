@@ -1,0 +1,25 @@
+filename = 'sound-physics-remastered-neoforge-1.21.1-1.5.2.jar'
+name = 'Sound Physics Remastered'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[NEOFORGE][1.21.1] Sound Physics Remastered 1.21.1-1.5.2'
+
+[download]
+hash = 'f1903e867a71cbdc3078caf957372b9959482cfb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9279974
+project-id = 535489
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '416089'
+type = 'OPTIONAL'

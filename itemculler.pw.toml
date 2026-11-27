@@ -1,0 +1,25 @@
+filename = 'ItemCuller_NeoForge_1.21.1 (v.4.0.0).jar'
+name = 'ItemCuller'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ItemCuller_NeoForge_1.21.1 (v.4.0.0)'
+
+[download]
+hash = 'd99934897090509e8ac46da87749b620ae99ecab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9313354
+project-id = 1380999
+
+[[x-prismlauncher-dependencies]]
+addonId = '1652871'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1652868'
+type = 'REQUIRED'

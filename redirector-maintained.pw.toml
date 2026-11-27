@@ -1,0 +1,18 @@
+filename = 'redirector-neoforge-1.21.1-1.0.0.jar'
+name = 'Redirector [Maintained]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'redirector-neoforge-1.21.1-1.0.0.jar'
+
+[download]
+hash = '0af9bec69983d70f62d9c72268d0c48597d3050c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6127618
+project-id = 1187622

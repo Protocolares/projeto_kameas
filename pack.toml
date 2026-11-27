@@ -1,0 +1,13 @@
+name = "Projeto Kameas"
+author = "Ruigo, Stark_Bitter, Amarantene"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "61e861087620c5f38dfe47ae6cff77c1eb0834485a4b077b9613de0a81ce388e"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.267"

@@ -1,0 +1,25 @@
+filename = 'letsdo-meadow-neoforge-1.4.11.jar'
+name = "[Let's Do] Meadow"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Meadow - 1.4.11 - NEOFORGE - 1.21.1'
+
+[download]
+hash = '43d5ea544e970cce2e2e815d3d3607b58516cd64'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9747427
+project-id = 821483
+
+[[x-prismlauncher-dependencies]]
+addonId = '1733606'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

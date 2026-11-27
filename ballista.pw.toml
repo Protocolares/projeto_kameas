@@ -1,0 +1,18 @@
+filename = 'aw_vehicles-1.21.1-1.0.8.jar'
+name = 'Ballista'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aw_vehicles-1.21.1-1.0.8.jar'
+
+[download]
+hash = 'beec05e18593a28d75c5fb977ef5fbaaadd51fec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6270706
+project-id = 1212462

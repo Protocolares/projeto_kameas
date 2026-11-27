@@ -1,0 +1,18 @@
+filename = 'superchunk-0.6.1.jar'
+name = 'SuperChunk - Extreme chunk generation'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'superchunk-0.6.1.jar'
+
+[download]
+hash = 'f1424012854b486c23028bd77264dac56deb3e62'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9502699
+project-id = 1614456

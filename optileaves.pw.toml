@@ -1,0 +1,29 @@
+filename = 'OptiLeaves-neoforge-1.21.1-2.0.1.jar'
+name = 'OptiLeaves'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'OptiLeaves-neoforge-1.21.1-v2.0.1'
+
+[download]
+hash = 'c626f3f4d802127b8dbe17166864248182857031'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9017782
+project-id = 1191403
+
+[[x-prismlauncher-dependencies]]
+addonId = '1280903'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1030285'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1500089'
+type = 'OPTIONAL'

@@ -1,0 +1,41 @@
+filename = 'fieldguide-1.26.0-1.21.1-neoforge.jar'
+name = 'Field Guide'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Field Guide NeoForge 1.21.1 - 1.26.0'
+
+[download]
+hash = '13eca5c77a6d5b5843f90e1ae8f420a38ec86919'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9806692
+project-id = 1470590
+
+[[x-prismlauncher-dependencies]]
+addonId = '1245453'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1101501'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'

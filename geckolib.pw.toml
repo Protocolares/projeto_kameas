@@ -1,0 +1,18 @@
+filename = 'geckolib-neoforge-1.21.1-4.9.4.jar'
+name = 'GeckoLib'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NeoForge 1.21.1 4.9.4'
+
+[download]
+hash = '75a73fab57b6bdc667a0d645922c2c5d6b9b77df'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9748637
+project-id = 388172

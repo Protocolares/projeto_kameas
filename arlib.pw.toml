@@ -1,0 +1,18 @@
+filename = 'arlib-1.0.38.jar'
+name = 'ARLib'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'arlib-1.0.38.jar'
+
+[download]
+hash = '2098f8a7ee258ea33ab15942c2cc68fb2b8cfc20'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8810475
+project-id = 1038780

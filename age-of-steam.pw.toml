@@ -1,0 +1,33 @@
+filename = 'age_of_steam-1.21.1-1.0.25.jar'
+name = 'Age of Steam Core'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'age_of_steam-1.21.1-1.0.25.jar'
+
+[download]
+hash = '7ab871d952ffb28dbf792ab32c1480be7b007d66'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7846463
+project-id = 1157793
+
+[[x-prismlauncher-dependencies]]
+addonId = '1038780'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1165543'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1160709'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1201187'
+type = 'OPTIONAL'

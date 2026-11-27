@@ -1,0 +1,21 @@
+filename = 'letsdo-foundation-neoforge-1.1.0.jar'
+name = "[Let's Do] Foundation"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Foundation 1.1.0 NeoForge'
+
+[download]
+hash = '48ee531fe6830bfb715d3de3ae64686e570cf034'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9735873
+project-id = 1733606
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

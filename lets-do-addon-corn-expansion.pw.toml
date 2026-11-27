@@ -1,0 +1,21 @@
+filename = 'cornexpansion-neoforge-1.3.1.jar'
+name = "[Let's Do Addon] Corn Expansion"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[Let's Do Addon] CornExpansion 1.3.1 NeoForge"
+
+[download]
+hash = '9d341fff70739319a22c6ea38809cf57cdfe8310'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9750089
+project-id = 1038740
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'OPTIONAL'

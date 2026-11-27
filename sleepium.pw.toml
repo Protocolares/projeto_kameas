@@ -1,0 +1,18 @@
+filename = 'sleepium-1.4.12-mc1.21.1-neoforge.jar'
+name = 'Sleepium'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Sleepium 1.4.12 for 1.21.1 (NeoForge)'
+
+[download]
+hash = 'b93d59195bd01c412fd15a17e50bda3b3c18fd9b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9816702
+project-id = 1780057
