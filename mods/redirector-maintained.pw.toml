@@ -1,0 +1,13 @@
+name = "Redirector [Maintained]"
+filename = "redirector-neoforge-1.21.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0af9bec69983d70f62d9c72268d0c48597d3050c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6127618
+project-id = 1187622

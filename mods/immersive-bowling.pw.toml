@@ -1,0 +1,13 @@
+name = "Immersive Bowling"
+filename = "immersivebowling-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8413985955dc9a58ca16778e11fad05d01cb6fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9570000
+project-id = 1774817

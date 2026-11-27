@@ -1,0 +1,13 @@
+name = "Meds And Herbs Reborn"
+filename = "meds_and_herbs-1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a170835b72c3dfd3e08e5fd6f9cb9e442906df15"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8596980
+project-id = 1622280

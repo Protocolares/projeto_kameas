@@ -1,0 +1,13 @@
+name = "SwiftGen"
+filename = "swiftgen-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8da40b6378688b06b1187f525861058e1d0ab498"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8435010
+project-id = 1606919

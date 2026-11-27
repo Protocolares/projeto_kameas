@@ -1,0 +1,13 @@
+name = "Age of Steam Core"
+filename = "age_of_steam-1.21.1-1.0.25.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ab871d952ffb28dbf792ab32c1480be7b007d66"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7846463
+project-id = 1157793

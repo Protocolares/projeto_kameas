@@ -1,0 +1,13 @@
+name = "Age of Steam  Workshop Expansion"
+filename = "aos_workshop_expansion-1.21.1-1.3.5-1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57b93878c0e50f80dd780ad292e46181540fe09b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7846461
+project-id = 1160709

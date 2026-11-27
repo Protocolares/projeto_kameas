@@ -1,0 +1,13 @@
+name = "Ballista"
+filename = "aw_vehicles-1.21.1-1.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "beec05e18593a28d75c5fb977ef5fbaaadd51fec"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6270706
+project-id = 1212462

@@ -1,0 +1,13 @@
+name = "Leiv's Lib"
+filename = "Leiv's Lib_NeoForge_1.21.1 (v.5.1.0).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1eb3127f50f987f59b438cc5af962b7ba91a9252"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9312328
+project-id = 1652868

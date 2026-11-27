@@ -1,0 +1,13 @@
+name = "No See, No Tick"
+filename = "noseenotick-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ad89cbdbd0c7d2a2932a8da336323aba27d0771f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5648916
+project-id = 833405

@@ -1,0 +1,13 @@
+name = "Adaptive Performance Tweaks"
+filename = "adaptive_performance_tweaks-neoforge-1.21.1-12.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43876135dfa0301f0ae2f10400d4337ea1ab4cd9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9093063
+project-id = 450269

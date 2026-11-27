@@ -1,0 +1,13 @@
+name = "SuperChunk - Extreme chunk generation"
+filename = "superchunk-0.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1424012854b486c23028bd77264dac56deb3e62"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9502699
+project-id = 1614456

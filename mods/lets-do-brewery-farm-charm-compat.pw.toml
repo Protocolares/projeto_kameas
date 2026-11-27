@@ -1,0 +1,13 @@
+name = "[Let's Do] Brewery - Farm&Charm Compat"
+filename = "letsdo-brewery-neoforge-2.1.14.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ea87ac890410b08046d3e003ee8564759d4ccb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9747405
+project-id = 1038106

@@ -1,0 +1,13 @@
+name = "Simple Voice Chat: Voice Physics"
+filename = "voice-physics-forge-neoforge-2.12.6-mc1.16.5-26.x.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "326eae9b4b4a8901e7a292d6ae8f36122370b561"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9548470
+project-id = 1712556

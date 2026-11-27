@@ -1,0 +1,13 @@
+name = "[Let's Do] Meadow"
+filename = "letsdo-meadow-neoforge-1.4.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "43d5ea544e970cce2e2e815d3d3607b58516cd64"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9747427
+project-id = 821483

@@ -1,0 +1,13 @@
+name = "Carbons"
+filename = "carbon-1.21.1.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "786ef9384bb01cc63c475cce097d0f65d5d96281"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9829913
+project-id = 1779606

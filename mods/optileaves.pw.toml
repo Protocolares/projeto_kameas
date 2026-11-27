@@ -1,0 +1,13 @@
+name = "OptiLeaves"
+filename = "OptiLeaves-neoforge-1.21.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c626f3f4d802127b8dbe17166864248182857031"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9017782
+project-id = 1191403

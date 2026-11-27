@@ -1,0 +1,13 @@
+name = "Sound Culling"
+filename = "soundculling-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c3419937f1d57cecb730cb8adc5fcc824f19615b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8381032
+project-id = 1548142

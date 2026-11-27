@@ -1,0 +1,13 @@
+name = "Potato Settings"
+filename = "potato-settings-0.2.0-mc1.21.1-neoforge-sodium.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2fc5fa9cac3ec078c46e1a8cd7cc6a68d3af73d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9717881
+project-id = 1819016

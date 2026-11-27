@@ -1,0 +1,13 @@
+name = "MatLib"
+filename = "matlib-1.0.1-1.21-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "46f07c61b3fe80df72d87047a8bba9ab9d9e6f9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9692143
+project-id = 1681583

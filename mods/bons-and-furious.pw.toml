@@ -1,0 +1,13 @@
+name = "Bons and Furious"
+filename = "bons_and_furious-neoforge-1.1.0-mc1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cd4882758d73676fabd01b964cf77e089fd5e7b9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9735683
+project-id = 1715359

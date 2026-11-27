@@ -1,0 +1,13 @@
+name = "Lingua Mundi"
+filename = "lingua-mundi-1.2.1_neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "17cae116eac1122a2c20ac45dec7a51c445e0f77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9717454
+project-id = 1496583

@@ -1,0 +1,13 @@
+name = "Sleepium"
+filename = "sleepium-1.4.13-mc1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a736ae3230adc95d5fec5533ad7fd2e487cabf00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9826072
+project-id = 1780057

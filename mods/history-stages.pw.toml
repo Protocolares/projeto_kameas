@@ -1,0 +1,13 @@
+name = "History Stages"
+filename = "historystages-6.2.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "272d6e1eb3fef9797c8c6148418d574f1fc435eb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9732264
+project-id = 1473453
