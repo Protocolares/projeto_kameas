@@ -971,11 +971,6 @@ hash = "13a759e5b239f5911f34f8e92b1b4b9865c983c7c94b62d6f91fcc3850a389d4"
 metafile = true
 
 [[files]]
-file = "mods/sleepium.pw.toml"
-hash = "aa98c99d9c749060dd06f325fdd97f8c9f75445fa5532ef4f78fa64d93328e5d"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot-recreated.pw.toml"
 hash = "1496e2641db049b31cbc8b5ff8d7f6355cba879360cab78e88ca370b4a795ffb"
 metafile = true
